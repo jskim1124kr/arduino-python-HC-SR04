@@ -1,3 +1,6 @@
+// author : Ji Su - Kim
+// date : 18.06.14
+
 int trigPin = 5;
 int echoPin = 10;
 int speakerPin = 3;
